@@ -145,3 +145,9 @@ The script provides detailed logs for every step:
 ```
 
 ---
+
+![Image](https://github.com/user-attachments/assets/c402cd11-c6ef-4c30-ae63-e1b9c25ea41e)
+![Image](https://github.com/user-attachments/assets/d2079155-3ca2-4d74-b9ca-7e2278448dfb)
+![Image](https://github.com/user-attachments/assets/9f83646f-1234-423b-ab8a-67843362f050)
+![Image](https://github.com/user-attachments/assets/7b2064b3-5c81-42bb-b562-b5ec9e4abc6c)
+![Image](https://github.com/user-attachments/assets/062d4c57-aefb-4bbf-a925-dc4966479af2)
